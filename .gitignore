@@ -22,3 +22,6 @@
 auto/EGL-Registry
 auto/OpenGL-Registry
 auto/glfixes
+GLEW.vcxproj
+GLEW.vcxproj.filters
+GLEW.vcxproj.user
